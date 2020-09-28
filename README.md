@@ -1,4 +1,5 @@
 ![Java CI with Maven](https://github.com/Lygaen/AdvancedVanish/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
+
 # Advanced Vanish
 A Good Plugin for /vanish...
 
@@ -39,3 +40,8 @@ Usage : `/vanishlist`<br>
 `vanish.power.9` : Vanishes you with a power of 0<br>
 `vanish.list`    : Allow to use the /vanishlist command<br>
 `vanish.list.all` : See all players in list, higher rank or not<br>
+
+# GET ?
+![alt text for screen readers](https://cloud.githubusercontent.com/assets/1636737/7921348/7fadc250-08ad-11e5-9f01-9f7e1f173a97.gif)<br>
+Get on [SPIGOT](https://www.spigotmc.org/resources/advanced-vanish.84309/) :<br>
+https://www.spigotmc.org/resources/advanced-vanish.84309/
