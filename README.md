@@ -11,7 +11,14 @@ The plugin allows you to hide yourself, but at different ranks, going from 9 to 
 don't have a perm of 6 or lower can't see you. If you hide with a perm of 0, only players with a perm of 0 can see you.<br>
 If you don't give any rank in the command, the plugin will check the lowest power you have and give it as your rank : if you have the perms
 for a 0 power vanish, the plugin will vanish you with a power of 0. The vanishlist is here to show you all players that are vanish and you
-have the power to see. 
+have the power to see.
+
+### Exemples
+![alt text for screen readers](https://raw.githubusercontent.com/Lygaen/AdvancedVanish/master/.github/Images/unknown.png)<br>
+![alt text for screen readers](https://raw.githubusercontent.com/Lygaen/AdvancedVanish/master/.github/Images/unknown%20(1).png)<br>
+![alt text for screen readers](https://raw.githubusercontent.com/Lygaen/AdvancedVanish/master/.github/Images/unknown%20(2).png)<br>
+![alt text for screen readers](https://raw.githubusercontent.com/Lygaen/AdvancedVanish/master/.github/Images/unknown%20(3).png)<br>
+![alt text for screen readers](https://raw.githubusercontent.com/Lygaen/AdvancedVanish/master/.github/Images/unknown%20(4).png)
 
 ## Commands
 `!`  = optional<br>
