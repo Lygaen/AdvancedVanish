@@ -1,0 +1,29 @@
+name: AdvancedVanish
+version: ${project.version}
+main: fr.lygaen.advancedvanish.AdvancedVanish
+api-version: 1.16
+authors: [ Lygaen ]
+description: "A plugin for the /vanish... but Advanced !!"
+
+commands:
+  vanish:
+    usage: "§4[ERROR]§r Wrong command ! Use /vanish ![player] ![rank]"
+    description: "The AdvancedVanish main command !"
+    permission-message: "§4[ERROR]§r You don't have the Perms for that !"
+    permission: vanish.power
+  vanishlist:
+    usage: "§4[ERROR]§r Wrong command ! Use /vanishlist"
+    description: "See all players online !"
+    permission-message: "§4[ERROR]§r You don't have the Perms for that !"
+    permission: vanish.list
+
+permissions:
+  vanish.list:
+    description: "Allow you to use /vanishlist command"
+    default: op
+  vanish.list.all:
+    description: "Allow you to see all players, lowered vanished or not"
+    default: not op
+  vanish.power.0:
+    description: "Maximum value"
+    default: op
