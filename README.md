@@ -1,5 +1,5 @@
+<img src="https://raw.githubusercontent.com/Lygaen/AdvancedVanish/master/.github/Images/vanish.png" alt="error" width="200" height="100"><br>
 ![Java CI with Maven](https://github.com/Lygaen/AdvancedVanish/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
-
 # Advanced Vanish
 A Good Plugin for /vanish...
 
