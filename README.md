@@ -36,15 +36,15 @@ Usage : `/vanishlist`<br>
 ## Permissions
 
 `vanish.power.0` : Vanishes you with a power of 0<br>
-`vanish.power.1` : Vanishes you with a power of 0<br>
-`vanish.power.2` : Vanishes you with a power of 0<br>
-`vanish.power.3` : Vanishes you with a power of 0<br>
-`vanish.power.4` : Vanishes you with a power of 0<br>
-`vanish.power.5` : Vanishes you with a power of 0<br>
-`vanish.power.6` : Vanishes you with a power of 0<br>
-`vanish.power.7` : Vanishes you with a power of 0<br>
-`vanish.power.8` : Vanishes you with a power of 0<br>
-`vanish.power.9` : Vanishes you with a power of 0<br>
+`vanish.power.1` : Vanishes you with a power of 1<br>
+`vanish.power.2` : Vanishes you with a power of 2<br>
+`vanish.power.3` : Vanishes you with a power of 3<br>
+`vanish.power.4` : Vanishes you with a power of 4<br>
+`vanish.power.5` : Vanishes you with a power of 5<br>
+`vanish.power.6` : Vanishes you with a power of 6<br>
+`vanish.power.7` : Vanishes you with a power of 7<br>
+`vanish.power.8` : Vanishes you with a power of 8<br>
+`vanish.power.9` : Vanishes you with a power of 9<br>
 `vanish.list`    : Allow to use the /vanishlist command<br>
 `vanish.list.all` : See all players in list, higher rank or not<br>
 
